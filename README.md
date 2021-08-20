@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/claudioaltamura/go-examples.svg?branch=master)](https://travis-ci.org/claudioaltamura/go-examples)
+[![Build Status](https://travis-ci.com/claudioaltamura/go-examples.svg?branch=master)](https://travis-ci.com/claudioaltamura/go-examples)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
